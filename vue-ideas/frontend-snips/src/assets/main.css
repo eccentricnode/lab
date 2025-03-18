@@ -22,6 +22,9 @@ a,
 }
 
 @media (min-width: 1024px) {
+  header {
+    display:
+  }
   body {
     display: flex;
     place-items: center;
